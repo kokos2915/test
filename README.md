@@ -1,2 +1,1 @@
-# test
-test repository
+step2_4.py это работа с ожиданиями
